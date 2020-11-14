@@ -1,2 +1,2 @@
 This is sample file 2
-
+** Line added by USER A on Nov 14**

@@ -1,2 +1,4 @@
 This is sample file 1
 ** Line added by USER B on  14th Nov*****
+** Line1 added by USER A on  14th Nov*****
+** Line2 added by USER A on  14th Nov*****
